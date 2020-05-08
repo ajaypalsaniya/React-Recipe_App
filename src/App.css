@@ -1,0 +1,10 @@
+.jumbotron {
+  background-color: #dc3545;
+  color: rgb(230, 236, 168);
+  text-align: center;
+}
+
+.fa {
+  padding: 30px;
+  height: 50px;
+}
