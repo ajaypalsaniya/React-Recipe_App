@@ -9,7 +9,7 @@ function App() {
   const [recipes, setRecipe] = useState([]);
 
   const APP_ID = "7fb094ea";
-  const APP_KEY = "13f7f8d3599a6c2565a3825f83caf87c";
+  const APP_KEY = "014617860a8fd377aea295b4e967c894";
 
   useEffect(() => {
     getRecipies();
